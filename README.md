@@ -1,1 +1,1 @@
-# constructor-hangman
+This is a constructor hangman game, and the theme is flower! Copy this repo down onto your local and run the game in the Terminal. 
